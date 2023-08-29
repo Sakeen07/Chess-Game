@@ -13,6 +13,8 @@ class Dragger:
         self.initial_row = 0
         self.initial_col = 0
 
+    # blit method
+
     def update_blit(self, surface):
         # texture
         self.piece.set_texture(size=128)

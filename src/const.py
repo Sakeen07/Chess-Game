@@ -1,8 +1,8 @@
-# Screen Dimensions
+# Screen dimensions
 WIDTH = 720
 HEIGHT = 720
 
-# Board Size
+# Board dimensions
 ROWS = 8
 COLS = 8
 SQSIZE = WIDTH // COLS
